@@ -1,0 +1,50 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Надир\Documents\Unity Projects\DontSurrender\DontSurrender_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1769)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1769)
+
+UnloadTime: 2.344725 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 168 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.648723 ms (FindLiveObjects: 0.011546 ms CreateObjectMapping: 0.025230 ms MarkObjects: 0.090231 ms  DeleteObjects: 0.123586 ms)
+
+UnloadTime: 0.439181 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.609808 ms (FindLiveObjects: 0.014967 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.127863 ms  DeleteObjects: 0.054737 ms)
+
+End of scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.554215 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 6026.
+Total: 1.140931 ms (FindLiveObjects: 0.186876 ms CreateObjectMapping: 0.019671 ms MarkObjects: 0.401549 ms  DeleteObjects: 0.123586 ms)
+
